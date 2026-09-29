@@ -1,0 +1,1069 @@
+{
+  "name": "main",
+  "nodes": [
+    {
+      "id": "internal/render/d2.go:RenderD2",
+      "label": "🔧 RenderD2",
+      "type": "function",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/d2.go:d2ID",
+      "label": "🔧 d2ID",
+      "type": "function",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/d2.go:d2Shape",
+      "label": "🔧 d2Shape",
+      "type": "function",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/d2.go:d2SysShape",
+      "label": "🔧 d2SysShape",
+      "type": "function",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/d2.go:d2SysColor",
+      "label": "🔧 d2SysColor",
+      "type": "function",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/d2.go:d2Width",
+      "label": "🔧 d2Width",
+      "type": "function",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/d2.go:d2Height",
+      "label": "🔧 d2Height",
+      "type": "function",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/d2.go:d2EdgeLabel",
+      "label": "🔧 d2EdgeLabel",
+      "type": "function",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/d2.go:sanitizeD2Label",
+      "label": "🔧 sanitizeD2Label",
+      "type": "function",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "cmd/map-axi/main.go:defaultArchFile",
+      "label": "🔷 defaultArchFile",
+      "type": "module",
+      "parent": "cmd/map-axi",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "cmd/map-axi/main.go:main",
+      "label": "🔧 main",
+      "type": "function",
+      "parent": "cmd/map-axi",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "cmd/map-axi/main.go:homeView",
+      "label": "🔧 homeView",
+      "type": "function",
+      "parent": "cmd/map-axi",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "cmd/map-axi/main.go:scanCmd",
+      "label": "🔧 scanCmd",
+      "type": "function",
+      "parent": "cmd/map-axi",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "cmd/map-axi/main.go:viewCmd",
+      "label": "🔧 viewCmd",
+      "type": "function",
+      "parent": "cmd/map-axi",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "cmd/map-axi/main.go:diffCmd",
+      "label": "🔧 diffCmd",
+      "type": "function",
+      "parent": "cmd/map-axi",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "cmd/map-axi/main.go:printHelp",
+      "label": "🔧 printHelp",
+      "type": "function",
+      "parent": "cmd/map-axi",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "cmd/map-axi/main.go:printUsage",
+      "label": "🔧 printUsage",
+      "type": "function",
+      "parent": "cmd/map-axi",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "cmd/map-axi/main.go:printHelpFooter",
+      "label": "🔧 printHelpFooter",
+      "type": "function",
+      "parent": "cmd/map-axi",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/extract/extract.go:Run",
+      "label": "🔧 Run",
+      "type": "function",
+      "parent": "internal/extract",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/extract/extract.go:findEntrypoints",
+      "label": "🔧 findEntrypoints",
+      "type": "function",
+      "parent": "internal/extract",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/extract/extract.go:classifyExternals",
+      "label": "🔧 classifyExternals",
+      "type": "function",
+      "parent": "internal/extract",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/extract/extract.go:guessSystemType",
+      "label": "🔧 guessSystemType",
+      "type": "function",
+      "parent": "internal/extract",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/extract/extract.go:containsAny",
+      "label": "🔧 containsAny",
+      "type": "function",
+      "parent": "internal/extract",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/ir/ir.go:Node",
+      "label": "⚙️ Node",
+      "type": "class",
+      "parent": "internal/ir",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/ir/ir.go:Edge",
+      "label": "⚙️ Edge",
+      "type": "class",
+      "parent": "internal/ir",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/ir/ir.go:Metrics",
+      "label": "⚙️ Metrics",
+      "type": "class",
+      "parent": "internal/ir",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/ir/ir.go:Route",
+      "label": "⚙️ Route",
+      "type": "class",
+      "parent": "internal/ir",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/ir/ir.go:ExternalSystem",
+      "label": "⚙️ ExternalSystem",
+      "type": "class",
+      "parent": "internal/ir",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/ir/ir.go:Architecture",
+      "label": "⚙️ Architecture",
+      "type": "class",
+      "parent": "internal/ir",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/ir/ir.go:Load",
+      "label": "🔧 Load",
+      "type": "function",
+      "parent": "internal/ir",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/ir/ir.go:Save",
+      "label": "🔧 Save",
+      "type": "function",
+      "parent": "internal/ir",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/render.go:Format",
+      "label": "⚙️ Format",
+      "type": "class",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/render.go:FormatASCII",
+      "label": "🔷 FormatASCII",
+      "type": "module",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/render.go:FormatD2",
+      "label": "🔷 FormatD2",
+      "type": "module",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/render.go:FormatMermaid",
+      "label": "🔷 FormatMermaid",
+      "type": "module",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/render.go:Render",
+      "label": "🔧 Render",
+      "type": "function",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/render.go:RenderDiffFile",
+      "label": "🔧 RenderDiffFile",
+      "type": "function",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/extract/symbols.go:outlineItem",
+      "label": "⚙️ outlineItem",
+      "type": "class",
+      "parent": "internal/extract",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/extract/symbols.go:outlineFile",
+      "label": "⚙️ outlineFile",
+      "type": "class",
+      "parent": "internal/extract",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/extract/symbols.go:ExtractSymbols",
+      "label": "🔧 ExtractSymbols",
+      "type": "function",
+      "parent": "internal/extract",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/extract/symbols.go:mapSymbolKind",
+      "label": "🔧 mapSymbolKind",
+      "type": "function",
+      "parent": "internal/extract",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/extract/symbols.go:findBinary",
+      "label": "🔧 findBinary",
+      "type": "function",
+      "parent": "internal/extract",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/extract/symbols.go:nodeID",
+      "label": "🔧 nodeID",
+      "type": "function",
+      "parent": "internal/extract",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/extract/symbols.go:parentFromFile",
+      "label": "🔧 parentFromFile",
+      "type": "function",
+      "parent": "internal/extract",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/extract/symbols.go:kindEmoji",
+      "label": "🔧 kindEmoji",
+      "type": "function",
+      "parent": "internal/extract",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/ascii.go:RenderASCII",
+      "label": "🔧 RenderASCII",
+      "type": "function",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/ascii.go:treeNode",
+      "label": "⚙️ treeNode",
+      "type": "class",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/ascii.go:buildTree",
+      "label": "🔧 buildTree",
+      "type": "function",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/ascii.go:renderTree",
+      "label": "🔧 renderTree",
+      "type": "function",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/ascii.go:renderChildren",
+      "label": "🔧 renderChildren",
+      "type": "function",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/ascii.go:topEdges",
+      "label": "🔧 topEdges",
+      "type": "function",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/ascii.go:metricVal",
+      "label": "🔧 metricVal",
+      "type": "function",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/ascii.go:truncate",
+      "label": "🔧 truncate",
+      "type": "function",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/ascii.go:sysIcon",
+      "label": "🔧 sysIcon",
+      "type": "function",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/extract/deps.go:ExtractDeps",
+      "label": "🔧 ExtractDeps",
+      "type": "function",
+      "parent": "internal/extract",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/diff.go:DiffResult",
+      "label": "⚙️ DiffResult",
+      "type": "class",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/diff.go:NodeChange",
+      "label": "⚙️ NodeChange",
+      "type": "class",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/diff.go:Diff",
+      "label": "🔧 Diff",
+      "type": "function",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/diff.go:RenderDiff",
+      "label": "🔧 RenderDiff",
+      "type": "function",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/diff.go:edgeKey",
+      "label": "🔧 edgeKey",
+      "type": "function",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/diff.go:setDiff",
+      "label": "🔧 setDiff",
+      "type": "function",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/mermaid.go:RenderMermaid",
+      "label": "🔧 RenderMermaid",
+      "type": "function",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/mermaid.go:mermaidID",
+      "label": "🔧 mermaidID",
+      "type": "function",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/mermaid.go:mermaidShape",
+      "label": "🔧 mermaidShape",
+      "type": "function",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/mermaid.go:mermaidSysShape",
+      "label": "🔧 mermaidSysShape",
+      "type": "function",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/mermaid.go:mermaidEdgeStyle",
+      "label": "🔧 mermaidEdgeStyle",
+      "type": "function",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/mermaid.go:sanitizeMermaidLabel",
+      "label": "🔧 sanitizeMermaidLabel",
+      "type": "function",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    },
+    {
+      "id": "internal/render/mermaid.go:groupByParent",
+      "label": "🔧 groupByParent",
+      "type": "function",
+      "parent": "internal/render",
+      "metrics": {
+        "loc": 0,
+        "complexity": 0,
+        "churn": 0,
+        "hotspot": 0,
+        "coverage": 0
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "internal/extract",
+      "target": "encoding/json",
+      "type": "import",
+      "weight": 2
+    },
+    {
+      "source": "internal/extract",
+      "target": "fmt",
+      "type": "import",
+      "weight": 3
+    },
+    {
+      "source": "internal/extract",
+      "target": "os/exec",
+      "type": "import",
+      "weight": 2
+    },
+    {
+      "source": "internal/extract",
+      "target": "strings",
+      "type": "import",
+      "weight": 2
+    },
+    {
+      "source": "internal/extract",
+      "target": "github.com/DanDo385/map-axi/internal/ir",
+      "type": "import",
+      "weight": 3
+    },
+    {
+      "source": "internal/render",
+      "target": "fmt",
+      "type": "import",
+      "weight": 5
+    },
+    {
+      "source": "internal/render",
+      "target": "github.com/DanDo385/map-axi/internal/ir",
+      "type": "import",
+      "weight": 5
+    },
+    {
+      "source": "internal/extract",
+      "target": "os",
+      "type": "import",
+      "weight": 1
+    },
+    {
+      "source": "internal/extract",
+      "target": "path/filepath",
+      "type": "import",
+      "weight": 1
+    },
+    {
+      "source": "internal/ir",
+      "target": "encoding/json",
+      "type": "import",
+      "weight": 1
+    },
+    {
+      "source": "internal/ir",
+      "target": "fmt",
+      "type": "import",
+      "weight": 1
+    },
+    {
+      "source": "internal/ir",
+      "target": "os",
+      "type": "import",
+      "weight": 1
+    },
+    {
+      "source": "internal/render",
+      "target": "strings",
+      "type": "import",
+      "weight": 4
+    },
+    {
+      "source": "cmd/map-axi",
+      "target": "flag",
+      "type": "import",
+      "weight": 1
+    },
+    {
+      "source": "cmd/map-axi",
+      "target": "fmt",
+      "type": "import",
+      "weight": 1
+    },
+    {
+      "source": "cmd/map-axi",
+      "target": "os",
+      "type": "import",
+      "weight": 1
+    },
+    {
+      "source": "cmd/map-axi",
+      "target": "path/filepath",
+      "type": "import",
+      "weight": 1
+    },
+    {
+      "source": "cmd/map-axi",
+      "target": "github.com/DanDo385/map-axi/internal/extract",
+      "type": "import",
+      "weight": 1
+    },
+    {
+      "source": "cmd/map-axi",
+      "target": "github.com/DanDo385/map-axi/internal/ir",
+      "type": "import",
+      "weight": 1
+    },
+    {
+      "source": "cmd/map-axi",
+      "target": "github.com/DanDo385/map-axi/internal/render",
+      "type": "import",
+      "weight": 1
+    },
+    {
+      "source": "internal/render",
+      "target": "sort",
+      "type": "import",
+      "weight": 1
+    }
+  ],
+  "entrypoints": [
+    "cmd/map-axi/main.go"
+  ],
+  "routes": null,
+  "externalSystems": [
+    {
+      "name": "github.com/DanDo385/map-axi/internal/render",
+      "type": "external",
+      "connections": [
+        "cmd/map-axi"
+      ]
+    },
+    {
+      "name": "encoding/json",
+      "type": "external",
+      "connections": [
+        "internal/extract",
+        "internal/ir"
+      ]
+    },
+    {
+      "name": "os/exec",
+      "type": "external",
+      "connections": [
+        "internal/extract"
+      ]
+    },
+    {
+      "name": "github.com/DanDo385/map-axi/internal/ir",
+      "type": "external",
+      "connections": [
+        "internal/extract",
+        "internal/render",
+        "cmd/map-axi"
+      ]
+    },
+    {
+      "name": "path/filepath",
+      "type": "external",
+      "connections": [
+        "internal/extract",
+        "cmd/map-axi"
+      ]
+    },
+    {
+      "name": "github.com/DanDo385/map-axi/internal/extract",
+      "type": "external",
+      "connections": [
+        "cmd/map-axi"
+      ]
+    }
+  ]
+}

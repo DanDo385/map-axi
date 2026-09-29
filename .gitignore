@@ -1,0 +1,17 @@
+# Binary
+/map-axi
+/bin/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.test
+*.out
